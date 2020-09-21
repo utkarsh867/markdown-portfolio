@@ -1,1 +1,1 @@
-[GitHub](http://github.com/utkarsh867)
+[GitHub](https://github.com/utkarsh867)
