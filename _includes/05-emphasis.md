@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I spend a _lot_ of time writing **JavaScript** code. I love **sports** and and watch comedy TV such as _Brooklyn Nine Nine_.
